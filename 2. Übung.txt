@@ -1,1 +1,3 @@
-Heute ist der Wochentag Sonntag, es ist sehr regnerisch drausßen und kalt.
+ich lerne heute mit git arbeiten.
+
+Heute ist der Wochentag Sonntag, es ist sehr regnerisch drausÃŸen und kalt.
